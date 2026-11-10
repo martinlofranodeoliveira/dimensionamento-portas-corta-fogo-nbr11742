@@ -1,0 +1,49 @@
+{
+  "nome_edificacao": "Parque Industrial Metalmecânico",
+  "responsavel_tecnico": "Eng. Martin Lofrano",
+  "portas": [
+    {
+      "identificacao": "PCF-SUB01 (Subestação Principal 13.8kV)",
+      "ambiente": "subestacao_sala_eletrica",
+      "tipo_folha": "folha_unica",
+      "classe_especificada": "P-120",
+      "largura_vao_livre_m": "1.20",
+      "altura_vao_livre_m": "2.20",
+      "populacao_atendida": 15,
+      "possui_seletor_fechamento": false,
+      "possui_eletroima_retencao": false,
+      "dados_folgas": {
+        "folga_superior_mm": "2.0",
+        "folga_lateral_esquerda_mm": "2.0",
+        "folga_lateral_direita_mm": "2.0",
+        "folga_inferior_piso_mm": "5.0"
+      },
+      "dados_barra": {
+        "instalada": true,
+        "altura_instalacao_m": "1.00",
+        "comprimento_barra_m": "0.80",
+        "forca_operacao_n": 110
+      }
+    },
+    {
+      "identificacao": "PCF-GLP01 (Depósito Central de Cilindros GLP)",
+      "ambiente": "central_glp_inflamaveis",
+      "tipo_folha": "folha_unica",
+      "classe_especificada": "P-120",
+      "largura_vao_livre_m": "1.00",
+      "altura_vao_livre_m": "2.10",
+      "populacao_atendida": 5,
+      "possui_seletor_fechamento": false,
+      "possui_eletroima_retencao": false,
+      "dados_folgas": {
+        "folga_superior_mm": "2.5",
+        "folga_lateral_esquerda_mm": "2.5",
+        "folga_lateral_direita_mm": "2.5",
+        "folga_inferior_piso_mm": "6.0"
+      },
+      "dados_barra": {
+        "instalada": false
+      }
+    }
+  ]
+}

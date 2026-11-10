@@ -1,0 +1,54 @@
+{
+  "nome_edificacao": "Centro de Convenções e Teatro Municipal",
+  "responsavel_tecnico": "Eng. Martin Lofrano",
+  "portas": [
+    {
+      "identificacao": "PCF-D01 (Saída Principal Plateia A)",
+      "ambiente": "local_reuniao_publico",
+      "tipo_folha": "folha_dupla",
+      "classe_especificada": "P-60",
+      "largura_vao_livre_m": "2.20",
+      "altura_vao_livre_m": "2.10",
+      "populacao_atendida": 350,
+      "possui_seletor_fechamento": true,
+      "possui_eletroima_retencao": true,
+      "dados_folgas": {
+        "folga_superior_mm": "2.5",
+        "folga_lateral_esquerda_mm": "2.5",
+        "folga_lateral_direita_mm": "2.5",
+        "folga_inferior_piso_mm": "6.0",
+        "folga_entre_folhas_mm": "2.5"
+      },
+      "dados_barra": {
+        "instalada": true,
+        "altura_instalacao_m": "1.00",
+        "comprimento_barra_m": "0.75",
+        "forca_operacao_n": 130
+      }
+    },
+    {
+      "identificacao": "PCF-D02 (Saída Foyer Superior)",
+      "ambiente": "local_reuniao_publico",
+      "tipo_folha": "folha_dupla",
+      "classe_especificada": "P-60",
+      "largura_vao_livre_m": "1.80",
+      "altura_vao_livre_m": "2.10",
+      "populacao_atendida": 180,
+      "possui_seletor_fechamento": true,
+      "possui_eletroima_retencao": true,
+      "dados_folgas": {
+        "folga_superior_mm": "2.2",
+        "folga_lateral_esquerda_mm": "2.0",
+        "folga_lateral_direita_mm": "2.0",
+        "folga_inferior_piso_mm": "7.0",
+        "folga_entre_folhas_mm": "2.2"
+      },
+      "dados_barra": {
+        "instalada": true,
+        "altura_instalacao_m": "1.00",
+        "comprimento_barra_m": "0.60",
+        "forca_operacao_n": 125
+      }
+    }
+  ]
+}

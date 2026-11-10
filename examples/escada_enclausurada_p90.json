@@ -1,0 +1,46 @@
+{
+  "nome_edificacao": "Edifício Comercial Alpha Tower",
+  "responsavel_tecnico": "Eng. Martin Lofrano",
+  "portas": [
+    {
+      "identificacao": "PCF-01 (Térreo - Acesso Escada à Prova de Fumaça)",
+      "ambiente": "escada_enclausurada_fumaca",
+      "tipo_folha": "folha_unica",
+      "classe_especificada": "P-90",
+      "largura_vao_livre_m": "1.00",
+      "altura_vao_livre_m": "2.10",
+      "populacao_atendida": 90,
+      "possui_seletor_fechamento": false,
+      "possui_eletroima_retencao": false,
+      "dados_folgas": {
+        "folga_superior_mm": "2.5",
+        "folga_lateral_esquerda_mm": "2.0",
+        "folga_lateral_direita_mm": "2.0",
+        "folga_inferior_piso_mm": "8.0"
+      },
+      "dados_barra": {
+        "instalada": false
+      }
+    },
+    {
+      "identificacao": "PCF-02 (1º ao 10º Andar - Antecâmara Escada PF)",
+      "ambiente": "antecamara_duto",
+      "tipo_folha": "folha_unica",
+      "classe_especificada": "P-90",
+      "largura_vao_livre_m": "0.90",
+      "altura_vao_livre_m": "2.10",
+      "populacao_atendida": 60,
+      "possui_seletor_fechamento": false,
+      "possui_eletroima_retencao": false,
+      "dados_folgas": {
+        "folga_superior_mm": "2.8",
+        "folga_lateral_esquerda_mm": "2.5",
+        "folga_lateral_direita_mm": "2.5",
+        "folga_inferior_piso_mm": "7.5"
+      },
+      "dados_barra": {
+        "instalada": false
+      }
+    }
+  ]
+}

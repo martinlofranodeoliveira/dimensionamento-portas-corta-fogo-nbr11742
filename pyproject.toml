@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dimensionamento-portas-corta-fogo-nbr11742"
+version = "1.0.0"
+description = "Dimensionamento e Especificação de Portas Corta-Fogo e Barras Antipânico (ABNT NBR 11742:2018 e NBR 11785:2018) - Lofrano Tecnologia"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [
+    { name = "Lofrano Tecnologia", email = "contato@lofranotecnologia.com.br" }
+]
+keywords = [
+    "engenharia-de-incendio",
+    "abnt-nbr-11742",
+    "abnt-nbr-11785",
+    "portas-corta-fogo",
+    "barras-antipanico",
+    "saidas-de-emergencia",
+    "compartimentacao",
+    "zero-float",
+    "lofrano-tecnologia"
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: Portuguese (Brazilian)",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Scientific/Engineering",
+    "Typing :: Typed",
+]
+dependencies = []
+
+[project.scripts]
+pcf-nbr11742 = "pcf_nbr11742.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+pcf_nbr11742 = ["py.typed"]

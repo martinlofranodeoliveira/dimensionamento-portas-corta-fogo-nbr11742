@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" width="1440" height="900">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+    <linearGradient id="portaGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#dc2626" />
+      <stop offset="50%" stop-color="#ef4444" />
+      <stop offset="100%" stop-color="#b91c1c" />
+    </linearGradient>
+    <linearGradient id="batenteGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#475569" />
+      <stop offset="100%" stop-color="#334155" />
+    </linearGradient>
+    <linearGradient id="barraGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e2e8f0" />
+      <stop offset="100%" stop-color="#94a3b8" />
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="900" fill="url(#bgGrad)" />
+  <rect x="30" y="25" width="1380" height="75" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1.5" />
+  <text x="60" y="58" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="bold">LOFRANO TECNOLOGIA — ENGENHARIA DE SEGURANÇA CONTRA INCÊNDIO</text>
+  <text x="60" y="82" fill="#38bdf8" font-family="system-ui, -apple-system, sans-serif" font-size="14">PORTAS CORTA-FOGO E BARRAS ANTIPÂNICO — ABNT NBR 11742:2018 / NBR 11785:2018</text>
+  <text x="1380" y="70" text-anchor="end" fill="#94a3b8" font-family="monospace" font-size="13">Edificação: Edifício Comercial Alpha Tower | Total: 2 porta(s)</text>
+  <g transform="translate(30, 120)">
+    <rect width="360" height="745" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="20" y="35" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="16" font-weight="bold">PARÂMETROS REGULAMENTARES</text>
+    <line x1="20" y1="48" x2="340" y2="48" stroke="#334155" stroke-width="1" />
+    <text x="20" y="75" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Status Global</text>
+    <text x="20" y="93" fill="#4ade80" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">TOTALMENTE CONFORME</text>
+    <text x="20" y="121" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Portas Conformes</text>
+    <text x="20" y="139" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">2 / 2</text>
+    <text x="20" y="167" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Portas Inconformes</text>
+    <text x="20" y="185" fill="#4ade80" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">0</text>
+    <text x="20" y="213" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Unidade de Passagem (UP)</text>
+    <text x="20" y="231" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">0,55 m (100 pessoas / UP)</text>
+    <text x="20" y="259" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Folga Lateral / Superior</text>
+    <text x="20" y="277" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">Máximo 3,0 mm (batente)</text>
+    <text x="20" y="305" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Folga em Relação ao Piso</text>
+    <text x="20" y="323" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">Máximo 10,0 mm</text>
+    <text x="20" y="351" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Folga Entre Folhas (Dupla)</text>
+    <text x="20" y="369" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">Máximo 3,0 mm</text>
+    <text x="20" y="397" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Altura Barra Antipânico</text>
+    <text x="20" y="415" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">0,90 m a 1,10 m (NBR 11785)</text>
+    <text x="20" y="443" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Comprimento Mínimo Barra</text>
+    <text x="20" y="461" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">60% da largura útil da folha</text>
+    <text x="20" y="489" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Força Máxima de Abertura</text>
+    <text x="20" y="507" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">150 N (manual sem pressão)</text>
+    <rect x="20" y="550" width="320" height="175" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="35" y="575" fill="#facc15" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">CLASSES DE RESISTÊNCIA AO FOGO</text>
+    <text x="35" y="600" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11">• P-30 (>= 30 min): Corredores comuns</text>
+    <text x="35" y="625" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11">• P-60 (>= 60 min): Escadas protegidas / Reunião</text>
+    <text x="35" y="650" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11">• P-90 (>= 90 min): Escadas à prova fumaça / Antecâmara</text>
+    <text x="35" y="675" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11">• P-120 (>= 120 min): Subestações / Centrais GLP</text>
+    <text x="35" y="705" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10">Classificação conforme ABNT NBR 11742:2018</text>
+  </g>
+  <g transform="translate(410, 120)">
+    <rect width="600" height="745" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="20" y="35" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="16" font-weight="bold">DETALHE EXECUTIVO DA PORTA CORTA-FOGO (PCF)</text>
+    <line x1="20" y1="48" x2="580" y2="48" stroke="#334155" stroke-width="1" />
+    <rect x="70" y="80" width="460" height="540" fill="#0f172a" stroke="#334155" stroke-width="1.5" />
+    <rect x="110" y="110" width="380" height="480" fill="url(#batenteGrad)" stroke="#64748b" stroke-width="2" />
+    <rect x="125" y="125" width="350" height="455" rx="3" fill="url(#portaGrad)" stroke="#7f1d1d" stroke-width="2" />
+    <rect x="150" y="132" width="100" height="22" rx="4" fill="#334155" stroke="#94a3b8" stroke-width="1.5" />
+    <line x1="250" y1="143" x2="310" y2="120" stroke="#94a3b8" stroke-width="3" />
+    <circle cx="310" cy="120" r="4" fill="#facc15" />
+    <text x="200" y="147" text-anchor="middle" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="10" font-weight="bold">MOLA AÉREA</text>
+    <rect x="220" y="240" width="160" height="40" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="2" />
+    <text x="300" y="256" text-anchor="middle" fill="#dc2626" font-family="system-ui, sans-serif" font-size="9" font-weight="bold">PORTA CORTA-FOGO</text>
+    <text x="300" y="271" text-anchor="middle" fill="#000000" font-family="system-ui, sans-serif" font-size="8" font-weight="bold">MANTENHA FECHADA</text>
+    <g transform="translate(145, 380)">
+      <rect width="310" height="20" rx="4" fill="url(#barraGrad)" stroke="#475569" stroke-width="1.5" />
+      <rect x="10" y="5" width="40" height="10" rx="2" fill="#ef4444" />
+      <rect x="260" y="5" width="40" height="10" rx="2" fill="#ef4444" />
+      <text x="155" y="14" text-anchor="middle" fill="#0f172a" font-family="system-ui, sans-serif" font-size="10" font-weight="bold">BARRA ANTIPÂNICO (ABNT NBR 11785)</text>
+    </g>
+    <line x1="110" y1="120" x2="125" y2="120" stroke="#facc15" stroke-width="1.5" />
+    <text x="95" y="123" text-anchor="end" fill="#facc15" font-family="system-ui, sans-serif" font-size="10" font-weight="bold">folga &lt;= 3mm</text>
+    <line x1="300" y1="580" x2="300" y2="590" stroke="#4ade80" stroke-width="2" />
+    <text x="300" y="605" text-anchor="middle" fill="#4ade80" font-family="system-ui, sans-serif" font-size="11" font-weight="bold">Folga no piso &lt;= 10mm</text>
+    <line x1="50" y1="390" x2="145" y2="390" stroke="#38bdf8" stroke-dasharray="3,3" stroke-width="1.5" />
+    <text x="45" y="394" text-anchor="end" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="10" font-weight="bold">h = 1,00 m (0,90 a 1,10m)</text>
+    <line x1="50" y1="590" x2="550" y2="590" stroke="#64748b" stroke-width="3" />
+    <text x="500" y="610" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10">Piso acabado</text>
+    <rect x="30" y="640" width="540" height="85" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="45" y="665" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">REQUISITOS DE FECHAMENTO AUTOMÁTICO E OPERAÇÃO</text>
+    <text x="45" y="685" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">• Fechamento automático obrigatório por mola aérea regulamentar em todas as portas.</text>
+    <text x="45" y="702" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">• Folha dupla exige seletor sequencial de fechamento para sobreposição correta do batente.</text>
+    <text x="45" y="718" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">• Força de abertura da barra limitada a 150 N em evacuação emergencial de pânico.</text>
+  </g>
+  <g transform="translate(1030, 120)">
+    <rect width="380" height="745" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="20" y="35" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="16" font-weight="bold">PORTAS INSPECIONADAS</text>
+    <line x1="20" y1="48" x2="360" y2="48" stroke="#334155" stroke-width="1" />
+    <rect x="20" y="65" width="340" height="115" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <rect x="20" y="65" width="8" height="115" rx="3" fill="#166534" />
+    <text x="35" y="87" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">PCF-01 (Térreo - Acesso Escada à Prova de Fumaça) — P-90</text>
+    <text x="35" y="105" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">escada_enclausurada_fumaca</text>
+    <text x="35" y="123" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11">Vão: 1.0m x 2.10m | folha_unica</text>
+    <text x="35" y="141" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11">Fluxo: 100 pess (1 UP) | Pop: 90</text>
+    <text x="35" y="161" fill="#4ade80" font-family="system-ui, sans-serif" font-size="11" font-weight="bold">Status: CONFORME</text>
+    <rect x="20" y="190" width="340" height="115" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <rect x="20" y="190" width="8" height="115" rx="3" fill="#166534" />
+    <text x="35" y="212" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">PCF-02 (1º ao 10º Andar - Antecâmara Escada PF) — P-90</text>
+    <text x="35" y="230" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">antecamara_duto</text>
+    <text x="35" y="248" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11">Vão: 0.90m x 2.10m | folha_unica</text>
+    <text x="35" y="266" fill="#cbd5e1" font-family="system-ui, sans-serif" font-size="11">Fluxo: 100 pess (1 UP) | Pop: 60</text>
+    <text x="35" y="286" fill="#4ade80" font-family="system-ui, sans-serif" font-size="11" font-weight="bold">Status: CONFORME</text>
+    <rect x="20" y="650" width="340" height="75" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="35" y="675" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">CERTIFICAÇÃO TÉCNICA DE PORTAS</text>
+    <text x="35" y="698" fill="#4ade80" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">TOTALMENTE CONFORME</text>
+    <text x="35" y="715" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="10">Auditoria Lofrano Tecnologia — NBR 11742 / NBR 11785</text>
+  </g>
+</svg>
